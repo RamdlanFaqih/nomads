@@ -1,2 +1,2 @@
 # nomads
-Hasil Belajar dari Buildwithangga
+Aku belajar ini dari Build with angga,
